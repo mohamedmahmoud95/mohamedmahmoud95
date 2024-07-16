@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Raslan<br>I'm a Flutter Developer and Instructor</p>
+<p align="left">I'm Mohamed Raslan<br>Flutter Developer & Instructor</p>
 
 ###
 
