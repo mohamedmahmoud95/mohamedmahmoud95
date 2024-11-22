@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
  <a href="https://bit.ly/Mohamed-Raslan-LeetCode" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=leetcode&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=ffa929&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
   </a>
 </div>
 
